@@ -1,10 +1,11 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.minibilge.abcbaglamaca",
-    "sha256_cert_fingerprints": [
-      "AD:4E:62:B0:C6:E6:30:95:9C:34:06:1D:2E:39:48:75:56:5F:D9:FF:0F:51:E8:9D:DA:87:DF:5C:34:C9:20:07"
-    ]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.minibilge.abcbaglamaca",
+      "sha256_cert_fingerprints":
+        ["B4:6C:61:69:4E:26:89:B0:3D:B5:25:36:F7:87:36:55:26:3A:98:7E:E8:C3:80:A4:BF:E0:0A:40:7B:44:C3:A6"]
+    }
   }
-}]
+]
